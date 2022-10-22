@@ -10,7 +10,8 @@ package RECURSIVIDAD;
  */
 //Crea un método que imprima los dígitos desde N hasta 1. Se debe pasar como parámetro el número N
 public class Ejercio03 {
-  {
+            public static void main(String[] args) {
+
     int n = 5;
     decre(n);
 }

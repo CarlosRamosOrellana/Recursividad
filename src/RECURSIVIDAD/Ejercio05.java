@@ -10,7 +10,9 @@ package RECURSIVIDAD;
  */
 //Crea un método que obtenga el factorial de un número N. Se debe pasar como parámetro el número N
 public class Ejercio05 {
-    {
+    
+            public static void main(String[] args) {
+
     //obtier factorial de n
     int n = 4;
     System.out.println(n+"! = "+fact(n));

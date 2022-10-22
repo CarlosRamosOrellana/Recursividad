@@ -10,7 +10,9 @@ package RECURSIVIDAD;
  */
 //Crea un método que imprima los dígitos desde 1 hasta N. Se debe pasar como parámetro el número N
 public class Ejercio02 {
-    {
+        public static void main(String[] args) {
+
+    
     //llamada para obtener la suma de 5
     System.out.println(sum(4));
 }

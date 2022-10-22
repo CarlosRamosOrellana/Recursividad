@@ -10,7 +10,9 @@ package RECURSIVIDAD;
  */
 //Crea un método que obtenga la cantidad de dígitos de un número N. Se debe pasar como parámetro el número N
 public class Ejercio04 {
-   {
+           public static void main(String[] args) {
+
+    
     int n = 1111;
     System.out.println(n+" tiene "+digi(n)+" dígitos");
 }
